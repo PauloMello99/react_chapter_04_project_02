@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 8rem;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.container input {
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: 1px solid black;
+}
